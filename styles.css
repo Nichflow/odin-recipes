@@ -1,7 +1,44 @@
 div {
-    color: red;
+    background-color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
     text-decoration-color: white;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
 }
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+ol {
+    background-color: chocolate;
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul {
+    background-color: chocolate;;
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul.boxed {
+   text-align: center;
+}
+
+.special {
+    background-color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link {
+    text-align: left;
+}
+
+.fancy {
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+    color: black;
+}
+
